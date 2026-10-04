@@ -1,0 +1,58 @@
+[
+  {
+    "property_id": "prop-101",
+    "address": { "street": "123 Main St", "city": "Los Angeles", "state": "CA" },
+    "zip_code": "90001",
+    "price": 750000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1800,
+    "amenities": ["Parking", "Pool"],
+    "local_sponsors": [{ "sponsor_id": "s-1", "name": "First Bank", "contact_email": "contact@firstbank.com" }]
+  },
+  {
+    "property_id": "prop-102",
+    "address": { "street": "456 Oak Ave", "city": "Pasadena", "state": "CA" },
+    "zip_code": "91101",
+    "price": 920000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2400,
+    "amenities": ["Garage", "Solar Panels"],
+    "local_sponsors": []
+  },
+  {
+    "property_id": "prop-103",
+    "address": { "street": "789 Pine Rd", "city": "Glendale", "state": "CA" },
+    "zip_code": "91201",
+    "price": 610000,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "square_feet": 1250,
+    "amenities": ["Balcony"],
+    "local_sponsors": [{ "sponsor_id": "s-2", "name": "Local Realty", "contact_email": "agent@realty.com" }]
+  },
+  {
+    "property_id": "prop-104",
+    "address": { "street": "101 Maple St", "city": "Burbank", "state": "CA" },
+    "zip_code": "91501",
+    "price": 840000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "square_feet": 2000,
+    "amenities": ["HVAC", "Yard"],
+    "local_sponsors": []
+  },
+  {
+    "property_id": "prop-105",
+    "address": { "street": "202 Elm St", "city": "Torrance", "state": "CA" },
+    "zip_code": "90501",
+    "price": 680000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1400,
+    "amenities": ["Gym", "Patio"],
+    "local_sponsors": [{ "sponsor_id": "s-3", "name": "City Coffee", "contact_email": "hello@citycoffee.com" }]
+  }
+]
+
